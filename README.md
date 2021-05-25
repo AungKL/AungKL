@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aung Kyae Lwin
+- 👋 Hi, I’m @Aung Kyaw Lwin
 - 👀 I’m interested in embedded systems especially in Arduino
 - 🌱 I’m currently learning Raspberry pi pico
 - 💞️ I’m looking to collaborate on long distance reliable communication with raspberry pi
